@@ -1,5 +1,7 @@
 # Mechanisms of Action (MOA) Prediction Web Application
 
+![Mechanism of Action Prediction](assets/banner.webp)
+
 ![](https://github.com/Xmen3em/Mechanism-Of-Action-Graduation-Project-/blob/main/maxresdefault.jpg)
 
 # Description
